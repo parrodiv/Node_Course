@@ -1,0 +1,26 @@
+          SQL
+SQL Databases are built in a relational  structure.
+Related tables  reference each other with joins as data is queried. (Le tabelle correlate fanno riferimento l'una all'altra con i join quando i dati vengono interrogati.)
+Relational tables also normalize the data, that means data is not duplicated in the tables. D.R.Y (Don't Repeat Yourself)
+
+          MONGODB (NOSQL)
+MongoDB stores data in collections, the individuals records in the collections are called documents.
+The documents have a key-value structure and look a lot like json.
+A collection holds all of the data about user, for example, instead of breaking it into related tables.
+Duplicating and distibuting data is permitted
+
+
+ADVANTAGES OF MONGODB
+
+  V - PERFORMANCE
+  V - FLEXIBILITY
+  V - SCALABILITY
+  V - USABILITY
+
+
+mongodb+srv://mongotut:<password>@cluster2.oosityz.mongodb.net/?retryWrites=true&w=majority
+                      password utente con permessi           "prima del ?"  --->nome database
+
+
+          MONGOOSE
+Is a library that makes working with much easier kind of like you could consider react makes working with javascript easier than vanilla javascript

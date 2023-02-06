@@ -1,0 +1,14 @@
+20221114	19:56:43	fb891b54-dd33-4a72-b5f5-773c25a7bcdf	Error: Not allowed by CORS
+20221114	20:02:18	38d7dfd2-6729-41bb-b8a0-5c4ae7366757	Error: Not allowed by CORS
+20221114	20:04:26	0b82bd92-8b84-43ea-92db-751d23cd285f	Error: Not allowed by CORS
+20221114	20:04:46	a28327e7-b97a-403f-8bcf-ea9165a4222f	Error: Not allowed by CORS
+20221116	13:07:51	3015595e-e490-42d8-8e88-228ccddd024a	Error: ENOENT: no such file or directory, stat '/Users/killerparro/Downloads/NODE/node_course/08_Routing/routes/views/index.html'
+20221116	13:08:46	16bd01ed-256b-46c9-aede-8363c5533d6f	Error: ENOENT: no such file or directory, stat '/Users/killerparro/Downloads/NODE/node_course/08_Routing/routes/new-page.html'
+20221118	15:50:55	72966bf8-c2bf-4ab3-8471-137dda5fe8e0	TypeError: file is required
+20221130	14:38:14	aeb550a3-66c0-495a-b127-1d34e6d16e99	TypeError: Cannot read properties of undefined (reading 'roles')
+20221130	14:38:55	c38e5dbf-0a7f-4147-ae85-857d729813c6	TypeError: Cannot read properties of undefined (reading 'roles')
+20221130	14:39:11	5f3a1de6-dc00-4a6c-97fd-15cbece2d96e	TypeError: Cannot read properties of undefined (reading 'roles')
+20221130	21:16:31	7130fcb4-2b0d-4e4e-b249-e6228e113a2a	TypeError: Cannot read properties of undefined (reading 'roles')
+20221130	21:20:50	1ab6b5d7-3f77-4a8b-a2d1-2d9225ee6901	ReferenceError: rolesArray is not defined
+20221130	21:22:28	f5abcfc3-f3c8-4be4-9fbb-5d0427fd0a8f	ReferenceError: rolesArray is not defined
+20221218	17:11:50	2c3e34c4-65eb-4e2e-b631-762adc277891	ReferenceError: allowedOriginsssss is not defined

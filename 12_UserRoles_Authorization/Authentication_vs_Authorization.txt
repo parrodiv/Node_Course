@@ -1,0 +1,14 @@
+Authentication refers tot he process of verifying who someone is. 
+
+Authorization is the process of verifying what specific resources a user has access to.
+
+JWT 
+  - Confirm Authentication
+  - Allow access to API endpoints
+  - Endpoints provide data resources
+  - Use Authorizaton header
+
+USER ROLES & PERMISSIONS
+  - Provide different levels of access
+  - Sent in access token payload
+  - Verified with middleware
